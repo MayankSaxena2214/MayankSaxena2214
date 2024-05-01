@@ -28,34 +28,7 @@
 
 <br/>
 <br/>
-<div align="center" style="margin: 0 auto;">
-    <table style="border-collapse: collapse; width: 50%; margin-top: 20px;">
-        <tr style="background-color: #f2f2f2;">
-            <th style="padding: 8px; border: 1px solid #ddd;">Qualification</th>
-            <th style="padding: 8px; border: 1px solid #ddd;">Institute Name</th>
-            <th style="padding: 8px; border: 1px solid #ddd;">Affiliated To</th>
-            <th style="padding: 8px; border: 1px solid #ddd;">Marks/CGPA</th>
-        </tr>
-        <tr style="background-color: #ffffff;">
-            <td style="padding: 8px; border: 1px solid #ddd;">10th Grade</td>
-            <td style="padding: 8px; border: 1px solid #ddd;">Bhai Joga Singh Public School, Meerut</td>
-            <td style="padding: 8px; border: 1px solid #ddd;">CBSE</td>
-            <td style="padding: 8px; border: 1px solid #ddd;">92%</td>
-        </tr>
-        <tr style="background-color: #f2f2f2;">
-            <td style="padding: 8px; border: 1px solid #ddd;">12th Grade</td>
-            <td style="padding: 8px; border: 1px solid #ddd;">Lala Tika Ram Public School, Meerut</td>
-            <td style="padding: 8px; border: 1px solid #ddd;">CBSE</td>
-            <td style="padding: 8px; border: 1px solid #ddd;">96.8%</td>
-        </tr>
-        <tr style="background-color: #ffffff;">
-            <td style="padding: 8px; border: 1px solid #ddd;">B.Tech</td>
-            <td style="padding: 8px; border: 1px solid #ddd;">Bharat Institute of Technology</td>
-            <td style="padding: 8px; border: 1px solid #ddd;">AKTU University</td>
-            <td style="padding: 8px; border: 1px solid #ddd;">CGPA 8.5</td>
-        </tr>
-    </table>
-</div>
+
 <br/>
 <div align="center">
 <table>
@@ -88,6 +61,16 @@
 </table>
 </div>
 
+<h1 align="center" style="color:#DCD427;">Here are my Projects</h1>
+
+### [Airbnb:Hotel Booking Website](https://airbnb-8pav.onrender.com/listings)
+Description of project 1. "Hotel Booking and Posting Website: A platform that allows users to search, book, and post listings for hotels and accommodations. Users can explore various properties, make reservations, and hosts can list their properties for booking by guests. The website provides a seamless experience for both travelers and property owners to connect and transact."
+
+### [My Portfolio](https://portfolio-tijy.onrender.com)
+Description of project 2. Portfolio: A showcase of my work and projects. This website serves as a platform to showcase my skills, experience, and accomplishments. It highlights my passion for web development, design, and problem-solving. The portfolio features a clean and modern design, with a responsive layout that adapts to different devices. Each project is presented with a brief description, technologies used, and a link to the project repository or live preview. The portfolio also includes sections for my resume, skills, and testimonials. By visiting my portfolio, potential employers, clients, or collaborators can get a comprehensive understanding of my skills, expertise, and ability to deliver high-quality work
+
+### [Clonning Spotify (Only html,CSS)](https://spotifyclone-kgia.onrender.com/)
+Description of project 3. Spotify Clone UI: A visually stunning and user-friendly interface for a music streaming application inspired by Spotify. The UI is designed using HTML and CSS, allowing for a seamless and responsive experience across different devices. The application features a clean and modern design, with vibrant colors and animations. Users can explore various sections such as the home page, search results, playlists, and songs. The UI includes interactive elements like playback controls, song recommendations, and user profiles. The application emphasizes a focus on UI/UX, showcasing the capabilities of HTML and CSS in creating a visually appealing and engaging user experience
 <h1 align="center">Connect with me:</h1>
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/mayank-saxena-419388239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mayank-saxena-419388239" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
