@@ -28,7 +28,65 @@
 
 <br/>
 <br/>
-
+<div align="center" style="margin: 0 auto;">
+    <table style="border-collapse: collapse; width: 50%; margin-top: 20px;">
+        <tr style="background-color: #f2f2f2;">
+            <th style="padding: 8px; border: 1px solid #ddd;">Qualification</th>
+            <th style="padding: 8px; border: 1px solid #ddd;">Institute Name</th>
+            <th style="padding: 8px; border: 1px solid #ddd;">Affiliated To</th>
+            <th style="padding: 8px; border: 1px solid #ddd;">Marks/CGPA</th>
+        </tr>
+        <tr style="background-color: #ffffff;">
+            <td style="padding: 8px; border: 1px solid #ddd;">10th Grade</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">Bhai Joga Singh Public School, Meerut</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">CBSE</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">92%</td>
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+            <td style="padding: 8px; border: 1px solid #ddd;">12th Grade</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">Lala Tika Ram Public School, Meerut</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">CBSE</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">96.8%</td>
+        </tr>
+        <tr style="background-color: #ffffff;">
+            <td style="padding: 8px; border: 1px solid #ddd;">B.Tech</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">Bharat Institute of Technology</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">AKTU University</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">CGPA 8.5</td>
+        </tr>
+    </table>
+</div>
+<br/>
+<div align="center">
+<table>
+    <tr>
+        <th>Qualification</th>
+        <th>Institute Name</th>
+        <th>Affiliated To</th>
+        <th>Marks/CGPA</th>
+    </tr>
+    <tr>
+        <td>10th Grade</td>
+        <td>Bhai Joga Singh PUblic School,Meerut</td>
+        <td>CBSE</td>
+        <td>92%</td>
+    </tr>
+    <tr>
+        <td>12th Grade</td>
+        <td>Lala Tika Ram Public School,Meerut/td>
+        <td>CBSE</td>
+        <td>96.8%</td>
+    </tr>
+    <tr>
+        <td>B.Tech</td>
+        <td>Bharat Institute of Technology</td>
+        <td>AKTU University </td>
+        <td>CGPA 8.5</td>
+    </tr>
+  
+    
+</table>
+</div>
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
@@ -37,7 +95,8 @@
   <a href="https://www.leetcode.com/https://leetcode.com/u/mayanksaxena2114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mayanksaxena2114/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mayanksaxena2114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mayanksaxena2114/" height="30" width="40" /></a>
 </p>
-
+<br/>
+<br/>
 <h1 align="center">Language and Tools:</h1>
 <p align="left"> 
  <p align="center">
