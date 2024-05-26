@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mayanksaxena2214@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-vlCVy_RLEdDHr5JWjJnIEXBdV9bs9vZ/view?usp=sharing](https://drive.google.com/file/d/1-vlCVy_RLEdDHr5JWjJnIEXBdV9bs9vZ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-vlCVy_RLEdDHr5JWjJnIEXBdV9bs9vZ/view?usp=sharing](https://drive.google.com/file/d/13eA0mLRyLrLb2m3-V4A6Y67mFflu9usa/view?usp=drive_link)
 
 <br/>
 <br/>
