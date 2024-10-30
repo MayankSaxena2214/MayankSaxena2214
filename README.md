@@ -80,10 +80,10 @@ Spotify Clone UI: A visually stunning and user-friendly interface for a music st
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/mayank-saxena-419388239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mayank-saxena-419388239" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mayank-saxena-419388239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mayank-saxena-419388239" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/mayanksaxena2214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayanksaxena2214" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/mayanksaxena2114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mayanksaxena2114/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mayanksaxena2114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mayanksaxena2114/" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/mayanksaxena2114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mayanksaxena2114/" height="30" width="40" /></a>
 </p>
 <br/>
 <br/>
