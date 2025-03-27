@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Mayank Saxena</h1>
 <h3 align="center">A Man trying to Figure-Out Stuff!!</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/179CSQptf-1EICao2XYlgnUq8Yk-IrAsb/view?usp=sharing">
 
 
 <br/>
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mayanksaxena2214@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-vlCVy_RLEdDHr5JWjJnIEXBdV9bs9vZ/view?usp=sharing](https://drive.google.com/file/d/13eA0mLRyLrLb2m3-V4A6Y67mFflu9usa/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1-vlCVy_RLEdDHr5JWjJnIEXBdV9bs9vZ/view?usp=sharing](https://drive.google.com/file/d/1iq00VZyNP3Ith-Psa4cgPerRDF4VAfuk/view?usp=sharing)]
 
 <br/>
 <br/>
